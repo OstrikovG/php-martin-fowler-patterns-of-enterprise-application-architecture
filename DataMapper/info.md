@@ -1,4 +1,5 @@
 # Data Mapper (средство отображения данных)
+https://rozanov-lev.ru/shablony/data-mapper-sredstvo-otobrazheniya-dannyh/
 
 ## Проблема
 
