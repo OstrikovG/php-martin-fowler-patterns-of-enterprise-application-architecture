@@ -1,4 +1,5 @@
 # Practical PHP Patterns: Table Module
+https://dzone.com/articles/practical-php-patterns/practical-php-patterns-table
 
 The Table Module pattern is implemented by coding a class that encapsulates all the interaction with a database table. The usage of such a class may be singleton-like or more instances can be created to perform operations on subsets of the original table.
 

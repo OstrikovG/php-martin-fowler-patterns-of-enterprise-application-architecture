@@ -1,4 +1,5 @@
 # Domain Model (модель предметной области)
+https://rozanov-lev.ru/shablony/domain-model-model-predmetnoj-oblasti/
 
 ## Проблема
 

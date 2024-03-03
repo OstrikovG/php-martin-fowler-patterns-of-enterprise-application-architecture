@@ -1,4 +1,5 @@
 # Transaction Script (сценарий транзакция)
+https://rozanov-lev.ru/shablony/transaction-script-sczenarij-tranzakcziya/
 
 ## Проблема
 
